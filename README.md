@@ -1,5 +1,5 @@
 ## SKiT
-After thorough discussions with my supervisor, we have decided not to open-source the code associated with our recent publication at this time. This decision is due to the patent considerations and collaborative agreements with a corporate company Proximie.
+After thorough discussions with my supervisor, we have decided not to open-source the code associated with our recent publication at this time. This decision is due to the patent considerations and collaborative agreements with the corporate company: Proximie.
 
 However, I would like to assure you that the methods proposed in our paper are straightforward to replicate. Should you encounter any issues or have questions regarding the implementation, please do not hesitate to reach out to me. I am more than willing to provide guidance and clarify any doubts.
 
